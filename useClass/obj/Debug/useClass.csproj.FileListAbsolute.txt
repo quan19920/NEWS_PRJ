@@ -1,0 +1,11 @@
+G:\3.TAI_LIEU_HOC_TAP\chuyên đề tin học 1\PRACTICE\useClass\bin\Debug\useClass.exe.config
+G:\3.TAI_LIEU_HOC_TAP\chuyên đề tin học 1\PRACTICE\useClass\bin\Debug\useClass.exe
+G:\3.TAI_LIEU_HOC_TAP\chuyên đề tin học 1\PRACTICE\useClass\bin\Debug\useClass.pdb
+G:\3.TAI_LIEU_HOC_TAP\chuyên đề tin học 1\PRACTICE\useClass\obj\Debug\useClass.csproj.AssemblyReference.cache
+G:\3.TAI_LIEU_HOC_TAP\chuyên đề tin học 1\PRACTICE\useClass\obj\Debug\useClass.Form1.resources
+G:\3.TAI_LIEU_HOC_TAP\chuyên đề tin học 1\PRACTICE\useClass\obj\Debug\useClass.Properties.Resources.resources
+G:\3.TAI_LIEU_HOC_TAP\chuyên đề tin học 1\PRACTICE\useClass\obj\Debug\useClass.csproj.GenerateResource.cache
+G:\3.TAI_LIEU_HOC_TAP\chuyên đề tin học 1\PRACTICE\useClass\obj\Debug\useClass.csproj.CoreCompileInputs.cache
+G:\3.TAI_LIEU_HOC_TAP\chuyên đề tin học 1\PRACTICE\useClass\obj\Debug\useClass.exe
+G:\3.TAI_LIEU_HOC_TAP\chuyên đề tin học 1\PRACTICE\useClass\obj\Debug\useClass.pdb
+G:\3.TAI_LIEU_HOC_TAP\chuyên đề tin học 1\PRACTICE\useClass\obj\Debug\useClass.csproj.ResolveComReference.cache

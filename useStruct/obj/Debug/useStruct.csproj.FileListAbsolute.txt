@@ -1,0 +1,22 @@
+G:\3.TAI_LIEU_HOC_TAP\chuyên đề tin học 1\PRACTICE\useStruct\bin\Debug\useStruct.exe.config
+G:\3.TAI_LIEU_HOC_TAP\chuyên đề tin học 1\PRACTICE\useStruct\bin\Debug\useStruct.exe
+G:\3.TAI_LIEU_HOC_TAP\chuyên đề tin học 1\PRACTICE\useStruct\bin\Debug\useStruct.pdb
+G:\3.TAI_LIEU_HOC_TAP\chuyên đề tin học 1\PRACTICE\useStruct\obj\Debug\useStruct.csproj.AssemblyReference.cache
+G:\3.TAI_LIEU_HOC_TAP\chuyên đề tin học 1\PRACTICE\useStruct\obj\Debug\useStruct.Form1.resources
+G:\3.TAI_LIEU_HOC_TAP\chuyên đề tin học 1\PRACTICE\useStruct\obj\Debug\useStruct.Properties.Resources.resources
+G:\3.TAI_LIEU_HOC_TAP\chuyên đề tin học 1\PRACTICE\useStruct\obj\Debug\useStruct.csproj.GenerateResource.cache
+G:\3.TAI_LIEU_HOC_TAP\chuyên đề tin học 1\PRACTICE\useStruct\obj\Debug\useStruct.csproj.CoreCompileInputs.cache
+G:\3.TAI_LIEU_HOC_TAP\chuyên đề tin học 1\PRACTICE\useStruct\obj\Debug\useStruct.exe
+G:\3.TAI_LIEU_HOC_TAP\chuyên đề tin học 1\PRACTICE\useStruct\obj\Debug\useStruct.pdb
+G:\3.TAI_LIEU_HOC_TAP\chuyên đề tin học 1\PRACTICE\useStruct\obj\Debug\useStruct.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\PRACTICE-20211223T172113Z-001\PRACTICE\useStruct\bin\Debug\useStruct.exe.config
+C:\Users\Admin\Desktop\PRACTICE-20211223T172113Z-001\PRACTICE\useStruct\bin\Debug\useStruct.exe
+C:\Users\Admin\Desktop\PRACTICE-20211223T172113Z-001\PRACTICE\useStruct\bin\Debug\useStruct.pdb
+C:\Users\Admin\Desktop\PRACTICE-20211223T172113Z-001\PRACTICE\useStruct\obj\Debug\useStruct.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\PRACTICE-20211223T172113Z-001\PRACTICE\useStruct\obj\Debug\useStruct.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\PRACTICE-20211223T172113Z-001\PRACTICE\useStruct\obj\Debug\useStruct.Form1.resources
+C:\Users\Admin\Desktop\PRACTICE-20211223T172113Z-001\PRACTICE\useStruct\obj\Debug\useStruct.Properties.Resources.resources
+C:\Users\Admin\Desktop\PRACTICE-20211223T172113Z-001\PRACTICE\useStruct\obj\Debug\useStruct.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\PRACTICE-20211223T172113Z-001\PRACTICE\useStruct\obj\Debug\useStruct.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PRACTICE-20211223T172113Z-001\PRACTICE\useStruct\obj\Debug\useStruct.exe
+C:\Users\Admin\Desktop\PRACTICE-20211223T172113Z-001\PRACTICE\useStruct\obj\Debug\useStruct.pdb

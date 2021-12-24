@@ -1,0 +1,17 @@
+G:\3.TAI_LIEU_HOC_TAP\chuyên đề tin học 1\PRACTICE\PRACTICE\bin\Debug\PRACTICE.exe.config
+G:\3.TAI_LIEU_HOC_TAP\chuyên đề tin học 1\PRACTICE\PRACTICE\bin\Debug\PRACTICE.exe
+G:\3.TAI_LIEU_HOC_TAP\chuyên đề tin học 1\PRACTICE\PRACTICE\bin\Debug\PRACTICE.pdb
+G:\3.TAI_LIEU_HOC_TAP\chuyên đề tin học 1\PRACTICE\PRACTICE\obj\Debug\PRACTICE.csproj.AssemblyReference.cache
+G:\3.TAI_LIEU_HOC_TAP\chuyên đề tin học 1\PRACTICE\PRACTICE\obj\Debug\PRACTICE.Form1.resources
+G:\3.TAI_LIEU_HOC_TAP\chuyên đề tin học 1\PRACTICE\PRACTICE\obj\Debug\PRACTICE.Properties.Resources.resources
+G:\3.TAI_LIEU_HOC_TAP\chuyên đề tin học 1\PRACTICE\PRACTICE\obj\Debug\PRACTICE.csproj.GenerateResource.cache
+G:\3.TAI_LIEU_HOC_TAP\chuyên đề tin học 1\PRACTICE\PRACTICE\obj\Debug\PRACTICE.csproj.CoreCompileInputs.cache
+G:\3.TAI_LIEU_HOC_TAP\chuyên đề tin học 1\PRACTICE\PRACTICE\obj\Debug\PRACTICE.exe
+G:\3.TAI_LIEU_HOC_TAP\chuyên đề tin học 1\PRACTICE\PRACTICE\obj\Debug\PRACTICE.pdb
+G:\3.TAI_LIEU_HOC_TAP\chuyên đề tin học 1\PRACTICE\PRACTICE\obj\Debug\PRACTICE.csproj.ResolveComReference.cache
+G:\3.TAI_LIEU_HOC_TAP\chuyên đề tin học 1\PRACTICE\PRACTICE\bin\Debug\EPPlus.dll
+G:\3.TAI_LIEU_HOC_TAP\chuyên đề tin học 1\PRACTICE\PRACTICE\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+G:\3.TAI_LIEU_HOC_TAP\chuyên đề tin học 1\PRACTICE\PRACTICE\bin\Debug\System.ComponentModel.Annotations.dll
+G:\3.TAI_LIEU_HOC_TAP\chuyên đề tin học 1\PRACTICE\PRACTICE\bin\Debug\EPPlus.xml
+G:\3.TAI_LIEU_HOC_TAP\chuyên đề tin học 1\PRACTICE\PRACTICE\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+G:\3.TAI_LIEU_HOC_TAP\chuyên đề tin học 1\PRACTICE\PRACTICE\obj\Debug\PRACTICE.csproj.CopyComplete
